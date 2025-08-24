@@ -312,3 +312,31 @@ html{
   font-size: 2rem;
   font-family: var(--Font-Agency);
 }
+
+@media only screen and (min-width: 901px) and (max-width: 1200px) {
+  html{
+    font-size: 50%;
+  }
+   .content2>article>p{
+  font-family: var(--Font-Agency);
+  font-weight: 900;
+  background-color: black;
+  color: white;
+  transition: all ease-in-out 0.3s;
+  padding: 1rem;
+  a{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+  }
+ }
+
+
+
+}
+
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  html{
+    font-size: 40%;
+  }     
+}
