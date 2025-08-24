@@ -183,11 +183,11 @@ html{
   background-color: black;
   color: white;
   transition: all ease-in-out 0.3s;
-  padding: 1rem;
+  padding: 1rem 4rem;
   a{
     color: white;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
  }
  .content2>article>p:hover{
@@ -350,7 +350,7 @@ html{
   background-color: black;
   color: white;
   transition: all ease-in-out 0.3s;
-  padding: 1rem 2rem;
+  padding: 1rem 4rem;
   a{
     color: white;
     text-decoration: none;
@@ -408,11 +408,10 @@ html{
     justify-content: center;
     gap: 8rem;
   }
-.security>p{
+/* .security>p{
   font-size: 2.7rem;
   font-family: var(--Font-Agency);
-}
-
+} */
 }
 
 @media only screen and (min-width: 601px) and (max-width: 900px) {
@@ -448,7 +447,7 @@ html{
   background-color: black;
   color: white;
   transition: all ease-in-out 0.3s;
-  padding: 1rem 2rem;
+  padding: 1rem 4rem;
   a{
     color: white;
     text-decoration: none;
@@ -506,10 +505,10 @@ html{
     justify-content: center;
     gap: 8rem;
   }
-.security>p{
+/* .security>p{
   font-size: 2.8rem;
   font-family: var(--Font-Agency);
-}
+} */
   
 }
 
@@ -570,7 +569,7 @@ html{
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  top: 74%;
+  top: 82%;
  }
  .content2>article{
   padding: 1rem; }
@@ -578,14 +577,13 @@ html{
   font-family: var(--Font-Agency);
   font-weight: 900;
   background-color: black;
-  border: 2px solid green;
   color: white;
   transition: all ease-in-out 0.3s;
-  padding: 1rem 2rem;
+  padding: 1rem 4rem;
   a{
     color: white;
     text-decoration: none;
-    font-size: 5rem;
+    font-size: 3.5rem;
   }
  }
 
@@ -598,8 +596,8 @@ html{
   left: 50%;
   transform: translateX(-50%);
   align-items: center;
-  top: 85%;
-  width: 85%;
+  top: 90%;
+  width: 90%;
  }
 
  .home{
@@ -638,10 +636,10 @@ html{
     justify-content: center;
     gap: 3rem;
   }
-.security>p{
+/* .security>p{
   font-size: 2.8rem;
   font-family: var(--Font-Agency);
-}
+} */
 
 /* typewriter */
  .typewriter-container {
@@ -650,7 +648,7 @@ html{
   font-size: 1.35rem;
   left: 50%;
   transform: translateX(-50%);
-  top: 38%;
+  top: 42%;
   background-color: white;
   padding: 0.5rem;
   color: #000000;
@@ -679,7 +677,7 @@ html{
   border: 2px solid black;
   left: 50%;
   transform: translateX(-50%);
-  top: 50%;
+  top: 55%;
   font-size: 4rem;
  }
 .content1 > .title{
