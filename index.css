@@ -528,6 +528,15 @@ html{
     font-size: 35%;
   }
 
+   .background{
+  background-image: url(/images/background_mobile.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  margin: auto;
+}
+
   @keyframes upDown {
   0% {
     transform: translateY(0);
@@ -607,7 +616,7 @@ html{
   left: 50%;
   transform: translateX(-50%);
   align-items: center;
-  top: 90%;
+  top: 92%;
   width: 90%;
  }
 
@@ -656,7 +665,7 @@ html{
  .typewriter-container {
   position: absolute;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 1.35rem;
+  font-size: 1.3rem;
   left: 50%;
   transform: translateX(-50%);
   top: 43%;
