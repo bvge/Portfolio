@@ -707,6 +707,8 @@ html{
  }
 .content11 > .title11{
   text-align: center;
+  display: flex;
+  flex-direction: column;
   font-family: var(--Font-Agency);
 }
  .pen11{
