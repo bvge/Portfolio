@@ -31,12 +31,12 @@ document.addEventListener('DOMContentLoaded', () => {
   // sequence
   typeText(textBefore, () => {
     typeText(fakeName, () => {
-      // tiny pause before deleting the asterisks
+      // 
       setTimeout(() => {
         deleteText(fakeName.length, () => {
           typeText(realName, () => {
             typeText(afterName);
-            // no fade-out; blink continues forever
+            // 
           });
         });
       }, 400);

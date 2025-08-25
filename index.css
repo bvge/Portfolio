@@ -138,13 +138,7 @@ html{
 .tlk:hover{
   animation: unlockPulse 0.5s ease-in-out;
 }
-/* .blk{
-  position: absolute;
-  border: 2px solid black;
-  width: 6%;
-  left: 31%;
-  top: 38%;
-} */
+
 .trk{
   position: absolute;
   width: 4%;
@@ -262,7 +256,7 @@ html{
   overflow: hidden;
   border-right: 3px solid #000000; /* cursor */
   width: fit-content;
-  margin: 50px auto; /* center horizontally */
+  margin: 50px auto; 
   animation: blinkCursor 0.75s step-end infinite;
 }
 

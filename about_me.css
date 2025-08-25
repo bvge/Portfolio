@@ -198,7 +198,7 @@ color: white;
   overflow: hidden;
   border-right: 3px solid #000000; /* cursor */
   width: fit-content;
-  margin: 1rem auto; /* center horizontally */
+  margin: 1rem auto; 
   animation: blinkCursor 0.75s step-end infinite;
 }
 
@@ -326,7 +326,7 @@ color: white;
   overflow: hidden;
   border-right: 3px solid #000000; /* cursor */
   width: fit-content;
-  margin: 1rem auto; /* center horizontally */
+  margin: 1rem auto; 
   animation: blinkCursor 0.75s step-end infinite;
 }
 

@@ -32,9 +32,9 @@ document.addEventListener('DOMContentLoaded', () => {
   typeText(textBefore, () => {
     typeText(fakeName, () => {
       setTimeout(() => {
-        // delete the fake name fully
+        // 
         deleteText(fakeName.length, () => {
-          // then insert realName as clickable link
+          // 
           el.innerHTML += `<a href="https://www.linkedin.com/in/cole-adedeji-374234222" 
                               target="_blank" 
                               style="color:blue; text-decoration:none;">
