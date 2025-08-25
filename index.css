@@ -573,7 +573,7 @@ html{
 }
 
 .trk{
-   animation: upDown 2s ease-in-out infinite alternate;
+   animation: upDown 5s ease-in-out infinite alternate;
 }
 
 .tlk{
@@ -583,7 +583,7 @@ html{
   top: 24%;
 }
 .tlk{
-  animation: bounce 2.5s ease-in-out infinite;
+  animation: upDown 3s ease-in-out infinite alternate;
 }
 
   .content2 {

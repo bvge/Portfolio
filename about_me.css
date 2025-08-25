@@ -474,13 +474,14 @@ color: white;
 
 .grid_box {
   display: flex;
+  gap: 4rem;
   flex-direction: column;
-  padding-top: 2.5rem;
+  padding-top: 4rem;
 }
 .grid_box > h1 {
   text-align: center;
   font-family: var(--Font-Agency);
-  font-size: 5rem;
+  font-size: 7rem;
   color: var(--Very-dark-blue);
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
