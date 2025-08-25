@@ -64,6 +64,7 @@ html{
   src: url(/font/AGENCYB.TTF);
 }
 
+
 :root {
   /* Colors */
 
@@ -433,14 +434,14 @@ html{
 .trk{
   position: absolute;
   width: 6%;
-  left: 73%;
+  left: 76%;
   top: 20%;
 }
 
 .tlk{
   position: absolute;
   width: 8%;
-  left: 22%;
+  left: 17%;
   top: 24%;
 }
 

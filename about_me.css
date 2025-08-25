@@ -31,6 +31,11 @@ html {
   --Font-Roboto: "Roboto", sans-serif;
   --Font-Lato: "Lato", sans-serif;
 }
+/* animated css */
+.animate__animated.animate__fadeInRight {
+  --animate-duration: 2s;
+}
+
 
 .background {
   max-width: 100%;
